@@ -1,0 +1,19 @@
+# Student Management System
+
+A simple Java project that manages student data including adding, listing, updating, and deleting records.
+
+## Features
+- Add student
+- generate a unique id
+- enroll courses
+- calculate fees based on choices
+-  show data of students
+
+## Technologies
+- Java
+- VS Code
+
+## How to Run
+```bash
+javac StudentDataBaseApp.java
+java StudentDataBaseApp
